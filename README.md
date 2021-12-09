@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miguel A. Guillen
+- 👋 Hi, I’m MAG
 - 👀 I’m interested in embeded systems
 - 🌱 I’m currently learning tasmota related with fotovoltaic energy generation and domotic control
 - 💞️ I’m looking to collaborate on ...
